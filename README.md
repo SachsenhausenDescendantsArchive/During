@@ -7,4 +7,4 @@
 
 # Welcome to the Düring Family Document Repository
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay for highlighting transcribed documents, specifically the 10 entry diary written by Thomas Alva Edison in 1885.
+This is a set of sample visual essays demonstrating a few key features of a Visual Essay for highlighting transcribed documents.
