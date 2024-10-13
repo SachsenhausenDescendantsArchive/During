@@ -1,4 +1,4 @@
-.ve-header "Sachsenhausen Descendants Archive" https://sic2.datachunkdesigns.com/iiif/3/34/manifest "Düring Family Document Repository" pct:80,80,80,80 center sticky
+.ve-header "Sachsenhausen Descendants Archive" https://sic2.datachunkdesigns.com/iiif/3/34/manifest "Düring Family Document Repository" sticky
 
 - [Home](/)
     - [Introduction](/introduction)
