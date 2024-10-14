@@ -38,7 +38,13 @@
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest seq=6 left
 
-### Page 6
+### Page 6 - 28 March 1956
+
+Ich bin im Jahr 1933 aus der Schule gekommen. Ich habe drei Jahre im Kontor als exporteurer lernt. In 1937 war ich fertig mit lernen Punkt ich habe aber als Jude keine Gelegenheit gehabt eine Arbeit im Kontor als Exporteur zu bekommen. So habe ich lauter verschiedene Arbeiten annehmen müssen. Ich habe gelernt bei "Gelles" Hamburg Hopfenmarkt. Dadurch, dass ich in Hamburg nicht meinen Beruf ausfüllen konnte, weil ich Jude bin, musste ich hier meinem Beruf abgeben. Anstatt Exporteur musste ich metallarbeiter werden.
+
+---
+
+I left school in 1933. I trained as an exporter in the office for three years. I finished my training in 1937, but as a Jew I had no chance of getting a job in the office as an exporter. So I had to take on a lot of different jobs. I trained at "Gelles" in Hamburg Hopfenmarkt. Because I couldn't do my job in Hamburg because I'm Jewish, I had to give up my job here. Instead of being an exporter, I had to become a metalworker.
 
 #
 
