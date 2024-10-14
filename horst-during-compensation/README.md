@@ -125,12 +125,10 @@ In Beantwortung ihres Schreibens vom 15 dez. 1965
 
 Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler der Talmud Tora realschule in Hamburg. Von da ist er mit der Familie nach Lettland in ein KZ geschickt und dort umgekommen. Er war ein sehr guter Schüler Punkt seine berufsziel war nur Doktor zu sein und wir glauben alle dass er es gemacht hätte hochachtungsvoll 
 
-Hochachtungsvoll 
-Johanna Whitehead
+Hochachtungsvoll<br>Johanna Whitehead
 
 PS können wir auch geld kriegen für die Zeit wo er im KZ war?
-
----
+_ 
 January 11, 1965
 
 Dear Dr. Rosenhaft
@@ -139,8 +137,7 @@ In response to your letter of December 15, 1965
 
 Our brother Horst was born on July 5, 1930 in Hamburg. Horst was a student at the Talmud Tora secondary school in Hamburg. From there he and his family were sent to a concentration camp in Latvia and died there. He was a very good student. His only career goal was to be a doctor and we all believe that he would have done it. 
 
-Yours sincerely,
-Johanna Whitehead
+Yours sincerely,<br>Johanna Whitehead
 
 PS Can we get money for the time he was in the concentration camp?
 
