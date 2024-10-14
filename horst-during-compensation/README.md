@@ -209,6 +209,7 @@ Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der F
 Anschrift: 2 Hamburg 36, Drehbahn 54. Zahlungen an Finanzbehörde (Landeshauptkasse) für Amt für Wiedergutmachung Bankkonto: Landesbank Hamburg, Konto 103002 Postscheckkonto: Hamburg 5000 Kassenstunden: montags bis Freitags 8-13 Uhr
 
 SB. X 77
+
 ---
 
 In the compensation case of the community of heirs of Horst Düring, born on July 5, 1930 in Hamburg, deemed to have died on May 8, 1945, consisting of:
