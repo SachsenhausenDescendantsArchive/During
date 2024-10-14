@@ -38,13 +38,29 @@
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest seq=6 left
 
-### Page 6 - 28 March 1956
+### Page 6 - 28 March 1957 & 28 January 1957
+
+#### Transcription, Page 1:
 
 Ich bin im Jahr 1933 aus der Schule gekommen. Ich habe drei Jahre im Kontor als exporteurer lernt. In 1937 war ich fertig mit lernen Punkt ich habe aber als Jude keine Gelegenheit gehabt eine Arbeit im Kontor als Exporteur zu bekommen. So habe ich lauter verschiedene Arbeiten annehmen müssen. Ich habe gelernt bei "Gelles" Hamburg Hopfenmarkt. Dadurch, dass ich in Hamburg nicht meinen Beruf ausfüllen konnte, weil ich Jude bin, musste ich hier meinem Beruf abgeben. Anstatt Exporteur musste ich metallarbeiter werden.
 
 ---
 
+#### Translation, Page 1:
+
 I left school in 1933. I trained as an exporter in the office for three years. I finished my training in 1937, but as a Jew I had no chance of getting a job in the office as an exporter. So I had to take on a lot of different jobs. I trained at "Gelles" in Hamburg Hopfenmarkt. Because I couldn't do my job in Hamburg because I'm Jewish, I had to give up my job here. Instead of being an exporter, I had to become a metalworker.
+
+---
+
+#### Transcription, Page 2:
+
+Sehr geehrter Herren, ich möchte Sie höflichst bitten mir folgende Auskunft zu geben. Meine Eltern sind im KZ umgekommen. Ich war aber nicht im KZ. Ich bin bereits nach Amerika ausgewandert. Kann ich für meine Eltern wieder machen beanspruchen, oder können nur Kinder, welche im KZ waren, beanspruchen? Auch möchte ich von Ihnen wissen ob Geschwister zusammen beantragen, oder jeder extra. Ich würde Ihnen sehr dankbar sein, wenn sie mir recht bald antworten würden.
+
+---
+
+#### Translation, Page 2:
+
+Dear Sirs, I would like to politely ask you to give me the following information. My parents died in a concentration camp. But I was not in a concentration camp. I have already emigrated to America. Can I reclaim for my parents, or can only children who were in a concentration camp claim? I would also like to know whether siblings apply together or each separately. I would be very grateful if you could answer me very soon.
 
 #
 
