@@ -245,7 +245,7 @@ In
 
 #### Transcription
 
-Gründe :
+<u>Gründe :</u>
 
 Der jüdische Erblasser hatte seinen letzten Wohnsitz in Hamburg und besuchte hier die Talmud-Tora-Schule. Durch seine Deportation am 4.12.1941 nach Riga wurde der Schul- besuch unterbrochen. Aus der Deportation ist der Erblasser nicht zurückgekehrt.
 
@@ -262,7 +262,7 @@ Reg. Amtmann
 ---
 #### Translation
 
-Reasons:
+<u>Reasons:</u>
 
 The Jewish testator's last place of residence was in Hamburg and he attended the Talmud Torah school there. His school attendance was interrupted by his deportation to Riga on December 4, 1941. The testator did not return from the deportation.
 
