@@ -240,7 +240,6 @@ SB. X 77
 In
 
 # 
-
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 left
 ### 16 August 1966, Page 2
 
@@ -261,7 +260,6 @@ Im Auftrage:
 Reg. Amtmann
 
 ---
-
 #### Translation
 
 Reasons:
