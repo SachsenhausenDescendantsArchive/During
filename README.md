@@ -13,7 +13,7 @@ This is a set of sample visual essays demonstrating a few key features of a Visu
 
 #### Introduction & Reflection {href=introduction}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/Barrack60.jpg)
 
 Read an introduction to this collection, along with reflections and analysis by descendant of the Düring Family, Nicole Wines. 
 
@@ -25,6 +25,6 @@ This is a selection of handwritten letters from Egon Düring's Compensation File
 
 #### Horst Düring Compensation File {href=horst-during-compensation}
 
-![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/Barrack60.jpg)
+![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/HorstDuring.jpg)
 
 Horst Düring's Compensation File with selected transcriptions and translation.
