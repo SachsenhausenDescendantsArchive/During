@@ -6,7 +6,7 @@
     
 # Horst Düring Compensation File
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest right
 
 <b>STAATSARCHIVE HAMBURG</b>
 
