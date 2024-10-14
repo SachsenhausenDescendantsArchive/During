@@ -40,7 +40,7 @@ Datum der Benutzung
 Name, Vorname des Benutzenden
 Ingo Wille
 
-- - -
+_ _ _
 
 #### HAMBURG STATE ARCHIVES
 
@@ -49,7 +49,7 @@ Ingo Wille
 Office for Restitution
 49293
 
-- - -
+-
 
 Hamburg
 State Archives
