@@ -15,7 +15,7 @@
 Amt für Wiedergutmachung
 49293
 
-___
+- - -
 
 Hamburg
 Staatsarchiv
@@ -39,7 +39,8 @@ Datum der Benutzung
 
 Name, Vorname des Benutzenden
 Ingo Wille
-___
+
+- - -
 
 #### HAMBURG STATE ARCHIVES
 
@@ -48,7 +49,7 @@ ___
 Office for Restitution
 49293
 
-___
+- - -
 
 Hamburg
 State Archives
