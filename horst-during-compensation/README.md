@@ -72,6 +72,17 @@ Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler
 
 PS können wir auch geld kriegen für die Zeit wo er im KZ war?
 
+---
+January 11, 1965
+
+Dear Dr. Rosenhaft
+
+In response to your letter of December 15, 1965
+
+Our brother Horst was born on July 5, 1930 in Hamburg. Horst was a student at the Talmud Tora secondary school in Hamburg. From there he and his family were sent to a concentration camp in Latvia and died there. He was a very good student. His only career goal was to be a doctor and we all believe that he would have done it. Yours sincerely
+
+PS Can we get money for the time he was in the concentration camp?
+
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
