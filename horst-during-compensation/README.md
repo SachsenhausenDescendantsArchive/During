@@ -173,7 +173,7 @@ PS Can we get money for the time he was in the concentration camp?
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 center width=60%
 
 ### 16 August 1966, Page 1
 
