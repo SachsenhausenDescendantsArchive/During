@@ -133,7 +133,7 @@ Dear Sirs, I would like to politely ask you to give me the following information
 
 #
 
- .ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest seq=20 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest seq=20 left
 
 ### Page 20
 
