@@ -260,7 +260,7 @@ Im Auftrage:
 Reg. Amtmann
 
 ---
-#### Translation
+### Translation
 
 Reasons:
 
