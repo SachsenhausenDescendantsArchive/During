@@ -177,25 +177,13 @@ PS Can we get money for the time he was in the concentration camp?
 
 ### 16 August 1966, Page 1
 
-d to 7
-Akte
-FREIE UND HANSESTADT HAMBURG
-ARBEITS- UND SOZIALBEHORDE
-AMT FUR WIEDERGUTMACHUNG
-Sprechzeit:
-Nur montags von 8-15 Uhr
-FERNSPRECHER: 34 10 16 BEHORDENNETZ:
-WG 4
-App. 1267 23 0507 30/5
-Aktz.:
-(Bei Beantwortung bitte angeben)
-Hamburg, den 16. August 1966 Fr/La.
-15
-In der Entschädigungssache der Erbengemeinschaft nach
-Horst Düring, geb. am 5.7.1930 in Hamburg, als am 8.5.1945 verstorben geltend, bestehend aus:
-1.) Herrn Egon Düring, geb. am 15.1.1920,
-wohnhaft: 1820 Harrison Ave., Bronx, N.Y. / USA,
-2.) Frau Eleonore Markusfeld geb. Düring, geb. am 23.12.1920, wohnhaft: 306 Huguenot St., New Rochelle, N.Y. / USA, 3.) Frau Johanna Whitehead geb. Düring, geb. am 11.1.1918, wohnhaft: 247 Drake Ave., New Rochelle, N.Y. / USA,
+In der Entschädigungssache der Erbengemeinschaft nach Horst Düring, geb. am 5.7.1930 in Hamburg, als am 8.5.1945 verstorben geltend, bestehend aus:
+
+1.) Herrn Egon Düring, geb. am 15.1.1920, wohnhaft: 1820 Harrison Ave., Bronx, N.Y. / USA,
+
+2.) Frau Eleonore Markusfeld geb. Düring, geb. am 23.12.1920, wohnhaft: 306 Huguenot St., New Rochelle, N.Y. / USA,
+3.) Frau Johanna Whitehead geb. Düring, geb. am 11.1.1918, wohnhaft: 247 Drake Ave., New Rochelle, N.Y. / USA,
+
 zu 1.) bis 3.) vertreten durch
 Herrn Rechtsanwalt Dr. Fr. Rosenhaft, Hamburg 1, Spitalerstr. 11,
 ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559-
