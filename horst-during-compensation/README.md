@@ -70,9 +70,16 @@ Page 7
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
+#### 11. Januar 1965
 
-Page 8
+Sehr geehrter Dr rosenhaft 
+
+In Beantwortung ihres Schreibens vom 15 dezember 1965 
+
+Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler der Talmud Tora realschule in Hamburg. Von da ist er mit der Familie nach Lettland in ein KZ geschickt und dort umgekommen. Er war ein sehr guter Schüler Punkt seine berufsziel war nur Doktor zu sein und wir glauben alle dass er es gemacht hätte hochachtungsvoll 
+
+PS können wir auch geld kriegen für die Zeit wo er im KZ war?
+
 
 # 
 
