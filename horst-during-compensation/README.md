@@ -161,7 +161,20 @@ PS Can we get money for the time he was in the concentration camp?
 
 ### 17 July 1966
 
-# 
+JÜDISCHE GEMEINDE IN HAMBURG<br>
+Hamburg 6, Schäferkampsallee 29   Tel.: 44 09 44/46
+
+<u>Bescheinigung</u>
+Wir bescheinigen hiermit, daß
+Herr Horst During geb. 5, 7. 1930 geborene in Hamburg<br>
+zuletzt wohnhaft in Hamburg, Neuer Steinweg 78<br>
+auf Anordnung der Geheimen Staatspolizei, Leitstelle Hamburg
+am 4. 12. 1941 nach Riga deportiert wurde<br>
+und nicht wieder zurückgekehrt ist.
+
+Hamburg, d. 27. Juli 1966   JÜDISCHE GEMEINDE IN HAMBURG
+
+Fricke
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 left
 
