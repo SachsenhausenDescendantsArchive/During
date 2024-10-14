@@ -17,7 +17,9 @@ Amt für Wiedergutmachung
 
 -
 
-Hamburg Staatsarchiv
+Hamburg
+
+Staatsarchiv
 
 Bestellschein für Archivgut und Bibliotheksgut
 
