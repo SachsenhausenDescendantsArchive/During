@@ -197,9 +197,6 @@ WG 4-0507 30 -5-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 Erbengemeinschaft nach&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schr/Di<br>
 Horst During
 
-
-Schr/Di
-
 <u>SL 5</u><br>
 &nbsp;&nbsp;&nbsp;mit der Bitte um weitere Veranlassung.
 
