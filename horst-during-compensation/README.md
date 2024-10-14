@@ -128,7 +128,9 @@ Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler
 Hochachtungsvoll<br>Johanna Whitehead
 
 PS können wir auch geld kriegen für die Zeit wo er im KZ war?
-_ 
+
+--- 
+
 January 11, 1965
 
 Dear Dr. Rosenhaft
