@@ -198,7 +198,7 @@ Erbengemeinschaft nach&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schr/Di<br
 Horst During
 
 <u>SL 5</u><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mit der Bitte um weitere Veranlassung.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mit der Bitte um weitere Veranlassung.
 
 
 <u>Antragsteller:</u>
