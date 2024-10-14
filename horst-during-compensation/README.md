@@ -193,7 +193,7 @@ Hamburg, July 27, 1966 JEWISH COMMUNITY IN HAMBURG
 
 ### 10 August 1966, Page 1
 
-WG 4-0507 30 -5-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbspDen 10 August 1966<br>
+WG 4-0507 30 -5-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Den 10 August 1966<br>
 Erbengemeinschaft nach<br>&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Schr/Di<br>
 Horst During
 
