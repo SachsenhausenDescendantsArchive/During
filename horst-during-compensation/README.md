@@ -117,7 +117,7 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 right
 
-### 11 January 1965
+### 11 January 1966
 
 Sehr geehrter Dr rosenhaft 
 
@@ -176,14 +176,10 @@ PS Can we get money for the time he was in the concentration camp?
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
 ### 16 August 1966, Page 1
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 right
-
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
 ### 16 August 1966, Page 2
