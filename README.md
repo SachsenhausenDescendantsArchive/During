@@ -25,6 +25,6 @@ This is a selection of handwritten letters from Egon Düring's Compensation File
 
 #### Horst Düring Compensation File {href=horst-during-compensation}
 
-![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/HorstDuring.jpg)
+![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/Barrack60.jpg)
 
 Horst Düring's Compensation File with selected transcriptions and translation.
