@@ -244,6 +244,8 @@ In
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 left
 ### 16 August 1966, Page 2
 
+#### Transcription
+
 Gründe :
 
 Der jüdische Erblasser hatte seinen letzten Wohnsitz in Hamburg und besuchte hier die Talmud-Tora-Schule. Durch seine Deportation am 4.12.1941 nach Riga wurde der Schul- besuch unterbrochen. Aus der Deportation ist der Erblasser nicht zurückgekehrt.
@@ -259,6 +261,8 @@ Im Auftrage:
 Reg. Amtmann
 
 ---
+
+#### Translation
 
 Reasons:
 
