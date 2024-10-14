@@ -6,3 +6,6 @@
     
 # Egon Düring Compensation File
 
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest left
+
+### Page 1 - Case Folder & Request Form
