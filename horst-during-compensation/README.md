@@ -196,6 +196,31 @@ Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine
 
 Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,-- nach Massgabe der noch zu erlassenden haushalts- rechtlichen Vorschriften, spätestens jedoch bis 31.12.1969.
 
+---
+
+In the compensation case of the community of heirs of Horst Düring, born on July 5, 1930 in Hamburg, deemed to have died on May 8, 1945, consisting of:
+
+1.) Mr. Egon Düring, born on January 15, 1920,
+residence: 1820 Harrison Ave., Bronx, N.Y. / USA,
+
+2.) Mrs. Eleonore Markusfeld née Düring, born on December 23, 1920,
+residence: 306 Huguenot St., New Rochelle, N.Y. / USA,
+
+3.) Mrs. Johanna Whitehead née Düring, born on January 11, 1918,
+residence: 247 Drake Ave., New Rochelle, N.Y. / USA,
+
+1.) to 3.) represented by
+Mr. Attorney Dr. Ms. Rosenhaft,
+Hamburg 1, Spitalerstr. 11,
+
+issued by the Labor and Social Authority - Office for Reparation of the Free and Hanseatic City of Hamburg on the basis of the Federal Compensation Act (BEG) - Federal Law Gazette 1956 I p. 559 - in the version of the 2nd Act amending the Federal Compensation Act (BEG Final Act) of September 14, 1965 - Federal Law Gazette 1965 I p. 1315 in conjunction with the implementing regulations to the BEG, the following
+
+decision:
+The community of heirs receives capital compensation of DM 10,000 for damages suffered by the testator during training
+
+(in words: ten thousand German marks).
+
+Of this, it will receive DM 5,000 immediately and the remaining amount of DM 5,000 in accordance with the budgetary regulations yet to be issued, but no later than December 31, 1969.
 
 - 2 -
 
