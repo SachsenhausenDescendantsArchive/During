@@ -8,15 +8,70 @@
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest left
 
-#### Staatsarchiv Hamburg
+#### STAATSARCHIVE HAMBURG
 
 351-11
 
 Amt für Wiedergutmachung
 49293
+
 ___
 
+Hamburg
+Staatsarchiv
+
+Bestellschein
+fürArchivgut und Bibliotheksgut
+
+Bestandsnummer
+bei Bibliotheksgut: Verfasser, Kurztitel
+351-11
+
+Signature der Archivguteinheit
+bei Bibliotheksgut: Buchsignature
+49293 (Düring Max)
+
+Standort (wird vom Staatsarchiv ausgefüllt)
+MEG 277 213
+
+Datum der Benutzung
+03.04.2024
+
+Name, Vorname des Benutzenden
+Ingo Wille
+___
+
+#### HAMBURG STATE ARCHIVES
+
+351-11
+
 Office for Restitution
+49293
+
+___
+
+Hamburg
+State Archives
+
+Order form
+for archive material and library material
+
+Inventory number
+for library material: author, short title
+351-11
+
+Signature of the archive material unit
+for library material: book signature
+49293 (Düring Max)
+
+Location (will be filled out by the State Archives)
+MEG 277 213
+
+Date of use
+03.04.2024
+
+Name, first name of the user
+Ingo Wille
 
 # 
 
