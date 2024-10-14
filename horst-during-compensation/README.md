@@ -8,6 +8,8 @@
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest right
 
+### Page 1 - Case Folder & Request Form
+
 <b><h4>STAATSARCHIVE HAMBURG</h4></b>
 
 351-11
@@ -84,23 +86,19 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 right
 
-Cover Page
+### Page 2 - Cover Page
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=3 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 3
+### Page 3 - List of Individuals Submitting Request - 3 Siblings
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 4
+### Page 4 - 12 December 1965
 
 # 
 
