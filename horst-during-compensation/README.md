@@ -8,7 +8,7 @@
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest right
 
-<b>STAATSARCHIVE HAMBURG</b>
+<b><h4>STAATSARCHIVE HAMBURG</h4></b>
 
 351-11
 
@@ -45,7 +45,7 @@ Ingo Wille
 
 _  _ 
 
-<b>HAMBURG STATE ARCHIVES</b>
+<b><h4>HAMBURG STATE ARCHIVES</h4></b>
 
 351-11
 
