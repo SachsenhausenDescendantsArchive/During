@@ -191,7 +191,6 @@ Hamburg, July 27, 1966 JEWISH COMMUNITY IN HAMBURG
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 left
 
-
 ### 10 August 1966, Page 1
 
 # 
