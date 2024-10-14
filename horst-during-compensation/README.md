@@ -15,7 +15,7 @@
 Amt für Wiedergutmachung
 49293
 
-- - -
+-
 
 Hamburg
 Staatsarchiv
