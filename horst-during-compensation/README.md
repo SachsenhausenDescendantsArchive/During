@@ -163,13 +163,13 @@ PS Can we get money for the time he was in the concentration camp?
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 right
 
-### 10 August 1966
+### 10 August 1966, Page 1
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 right
 
-### Undated 
+### 10 August 1966, Page 2 
 
 # 
 
