@@ -191,8 +191,6 @@ zu 1.) bis 3.) <u>vertreten durch</u><br>Herrn Rechtsanwalt Dr. Fr. Rosenhaft,<b
 
 ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559- in der Fassung des 2. Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14.9.1965 - BGBl. 1965 I S. 1315 i. V. mit den Durchführungsverordnungen zum BEG folgender
 
-### 
-
 <u>Bescheid:</u><br>
 Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine Kapitalentschädigung von <u>DM 10.000,--</u>
 
