@@ -170,9 +170,7 @@ PS Can we get money for the time he was in the concentration camp?
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 12
+### Undated 
 
 # 
 
@@ -180,7 +178,7 @@ Page 12
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
-Page 13
+### 16 August 1966, Page 1
 
 # 
 
@@ -188,4 +186,4 @@ Page 13
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
-Page 14
+### 16 August 1966, Page 2
