@@ -251,9 +251,3 @@
 ### Page 42
 
 #
-
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/42/manifest seq=43 left
-
-### Page 43
-
-#
