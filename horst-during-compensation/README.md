@@ -104,17 +104,14 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 5
+### ???
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=6 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
-Page 6
+### 15 February 1966
 
 # 
 
@@ -152,15 +149,13 @@ PS Can we get money for the time he was in the concentration camp?
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 right
 
-Page 8 
+### 3 May 1966
 
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=9 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 9
+### 7 June 1966
 
 # 
 
