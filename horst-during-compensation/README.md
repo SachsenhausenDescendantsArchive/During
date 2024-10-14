@@ -164,11 +164,11 @@ PS Can we get money for the time he was in the concentration camp?
 JÜDISCHE GEMEINDE IN HAMBURG<br>
 Hamburg 6, Schäferkampsallee 29   Tel.: 44 09 44/46
 
-<u>Bescheinigung</u>
-Wir bescheinigen hiermit, daß
+<u>Bescheinigung</u><br>
+Wir bescheinigen hiermit, daß<br>
 Herr Horst During geb. 5, 7. 1930 geborene in Hamburg<br>
 zuletzt wohnhaft in Hamburg, Neuer Steinweg 78<br>
-auf Anordnung der Geheimen Staatspolizei, Leitstelle Hamburg
+auf Anordnung der Geheimen Staatspolizei, Leitstelle Hamburg<br>
 am 4. 12. 1941 nach Riga deportiert wurde<br>
 und nicht wieder zurückgekehrt ist.
 
