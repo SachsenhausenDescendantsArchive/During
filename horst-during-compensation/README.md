@@ -82,7 +82,7 @@ Ingo Wille
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -90,7 +90,7 @@ Page 2
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=3 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=3 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -98,7 +98,7 @@ Page 3
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -106,7 +106,7 @@ Page 4
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -114,7 +114,7 @@ Page 5
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=6 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=6 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -122,7 +122,7 @@ Page 6
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 right
 
 #### 11. Januar 1965
 
@@ -154,13 +154,13 @@ PS Can we get money for the time he was in the concentration camp?
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 right
 
 Page 8 
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=9 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=9 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -168,7 +168,7 @@ Page 9
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=10 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=10 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -176,7 +176,7 @@ Page 10
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -184,7 +184,7 @@ Page 11
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -192,7 +192,7 @@ Page 12
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
@@ -200,7 +200,7 @@ Page 13
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 right
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
