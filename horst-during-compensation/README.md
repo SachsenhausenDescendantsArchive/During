@@ -104,7 +104,7 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 right
 
-### ???
+### 27 January 1966
 
 # 
 
@@ -140,7 +140,6 @@ Our brother Horst was born on July 5, 1930 in Hamburg. Horst was a student at th
 Yours sincerely,<br>Johanna Whitehead
 
 PS Can we get money for the time he was in the concentration camp?
-
 
 # 
 
