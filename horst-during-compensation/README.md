@@ -176,6 +176,18 @@ Hamburg, d. 27. Juli 1966   JÜDISCHE GEMEINDE IN HAMBURG
 
 Fricke
 
+---
+with the request for further action.<br>
+JEWISH COMMUNITY IN HAMBURG<br>
+Hamburg 6, Schäferkampsallee 29 Tel.: 44 09 44/46
+
+<u>Certificate</u>
+We hereby certify that
+Mr. Horst During, born 5, 7, 1930 in Hamburg, last last lived in Hamburg, Neuer Steinweg 78, was deported to Riga on December 4, 1941 by order of the Secret State Police, Hamburg headquarters
+and did not return.
+
+Hamburg, July 27, 1966 JEWISH COMMUNITY IN HAMBURG
+
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 left
 
 ### 10 August 1966, Page 1
