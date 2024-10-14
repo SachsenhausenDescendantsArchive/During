@@ -187,12 +187,16 @@ In der Entschädigungssache der Erbengemeinschaft nach Horst Düring, geb. am 5.
 
 zu 1.) bis 3.) <u>vertreten durch</u><br>Herrn Rechtsanwalt Dr. Fr. Rosenhaft,<br>Hamburg 1, Spitalerstr. 11,
 
-ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559-
-in der Fassung des 2. Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14. 9. 1965 - BGBl. 1965 I S. 1315 i. V. mit den Durchführungsverordnungen zum BEG folgender
-Bescheid:
-Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine Kapitalentschädigung von DM 10.000,--
+ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559- in der Fassung des 2. Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14.9.1965 - BGBl. 1965 I S. 1315 i. V. mit den Durchführungsverordnungen zum BEG folgender
+
+<u>Bescheid:</u><br>
+Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine Kapitalentschädigung von <u>DM 10.000,--</u>
+
 (in Worten: Zehntausend Deutsche Mark).
-Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,- -- nach Massgabe der noch zu erlassenden haushalts- rechtlichen Vorschriften, spätestens jedoch bis 31.12.1969.
+
+Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,-- nach Massgabe der noch zu erlassenden haushalts- rechtlichen Vorschriften, spätestens jedoch bis 31.12.1969.
+
+
 - 2 -
 Rechtsmittelbelehrung:
 Soweit durch diesen Bescheid der Anspruch abgelehnt worden ist oder der Berechtigte anderweitig beschwert ist, kann dieser innerhalb einer Frist von drei Monaten gegen die Freie und Hansestadt Hamburg, vertreten durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung, vor der Entschädigungskammer des Landgerichts Hamburg, Hamburg 11, Zippelhaus 5, Hths., schriftlich (möglichst zweifach) Klage erheben.
