@@ -185,8 +185,8 @@ In der Entschädigungssache der Erbengemeinschaft nach Horst Düring, geb. am 5.
 
 3.) Frau Johanna Whitehead geb. Düring, geb. am 11.1.1918,<br>wohnhaft: 247 Drake Ave., New Rochelle, N.Y. / USA,
 
-zu 1.) bis 3.) vertreten durch
-Herrn Rechtsanwalt Dr. Fr. Rosenhaft, Hamburg 1, Spitalerstr. 11,
+zu 1.) bis 3.) <u>vertreten durch</u><br>Herrn Rechtsanwalt Dr. Fr. Rosenhaft,<br>Hamburg 1, Spitalerstr. 11,
+
 ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559-
 in der Fassung des 2. Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14. 9. 1965 - BGBl. 1965 I S. 1315 i. V. mit den Durchführungsverordnungen zum BEG folgender
 Bescheid:
