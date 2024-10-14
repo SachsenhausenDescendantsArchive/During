@@ -17,27 +17,28 @@ Amt für Wiedergutmachung
 
 -
 
-Hamburg
-Staatsarchiv
+Hamburg Staatsarchiv
 
-Bestellschein
-fürArchivgut und Bibliotheksgut
+Bestellschein für Archivgut und Bibliotheksgut
 
-Bestandsnummer
-bei Bibliotheksgut: Verfasser, Kurztitel
+Bestandsnummer bei Bibliotheksgut: Verfasser, Kurztitel
+
 351-11
 
-Signature der Archivguteinheit
-bei Bibliotheksgut: Buchsignature
+Signature der Archivguteinheit bei Bibliotheksgut: Buchsignature
+
 49293 (Düring Max)
 
 Standort (wird vom Staatsarchiv ausgefüllt)
+
 MEG 277 213
 
 Datum der Benutzung
+
 03.04.2024
 
 Name, Vorname des Benutzenden
+
 Ingo Wille
 
 _  _ 
@@ -51,27 +52,28 @@ Office for Restitution
 
 -
 
-Hamburg
-State Archives
+Hamburg State Archives
 
-Order form
-for archive material and library material
+Order form for archive material and library material
 
-Inventory number
-for library material: author, short title
+Inventory number for library material: author, short title
+
 351-11
 
-Signature of the archive material unit
-for library material: book signature
+Signature of the archive material unit for library material: book signature
+
 49293 (Düring Max)
 
 Location (will be filled out by the State Archives)
+
 MEG 277 213
 
 Date of use
+
 03.04.2024
 
 Name, first name of the user
+
 Ingo Wille
 
 # 
