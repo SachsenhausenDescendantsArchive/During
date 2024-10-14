@@ -173,7 +173,7 @@ PS Can we get money for the time he was in the concentration camp?
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 width=60%
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=13 left
 
 ### 16 August 1966, Page 1
 
@@ -198,6 +198,17 @@ Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine
 
 Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,-- nach Massgabe der noch zu erlassenden haushalts- rechtlichen Vorschriften, spätestens jedoch bis 31.12.1969.
 
+Rechtsmittelbelehrung:
+
+Soweit durch diesen Bescheid der Anspruch abgelehnt worden ist oder der Berechtigte anderweitig beschwert ist, kann dieser innerhalb einer Frist von drei Monaten gegen die Freie und Hansestadt Hamburg, vertreten durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung, vor der Entschädigungskammer des Landgerichts Hamburg, Hamburg 11, Zippelhaus 5, Hths., schriftlich (möglichst zweifach) Klage erheben.
+
+Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der Frist von 3 Monaten eine Frist von 6 Monaten. Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit der Zustellung dieses Bescheides. Die Klageschrift muß enthalten:<br>
+1) Die Bezeichnung der Parteien und des Gerichts,<br>
+2) die bestimmte Angabe des Gegenstandes und des Grundes des erhobenen Anspruchs sowie einen bestimmten Antrag (§ 253 ZPO)
+
+Anschrift: 2 Hamburg 36, Drehbahn 54. Zahlungen an Finanzbehörde (Landeshauptkasse) für Amt für Wiedergutmachung Bankkonto: Landesbank Hamburg, Konto 103002 Postscheckkonto: Hamburg 5000 Kassenstunden: montags bis Freitags 8-13 Uhr
+
+SB. X 77
 ---
 
 In the compensation case of the community of heirs of Horst Düring, born on July 5, 1930 in Hamburg, deemed to have died on May 8, 1945, consisting of:
@@ -224,20 +235,19 @@ The community of heirs receives capital compensation of DM 10,000 for damages su
 
 Of this, it will receive DM 5,000 immediately and the remaining amount of DM 5,000 in accordance with the budgetary regulations yet to be issued, but no later than December 31, 1969.
 
-- 2 -
+Legal remedies:
 
-Rechtsmittelbelehrung:
+If the claim has been rejected by this decision or the entitled party is otherwise aggrieved, he or she can file a written complaint (if possible in duplicate) against the Free and Hanseatic City of Hamburg, represented by the Labor and Social Authority - Office for Compensation, before the Compensation Chamber of the Hamburg Regional Court, Hamburg 11, Zippelhaus 5, Hths., within a period of three months.
 
-Soweit durch diesen Bescheid der Anspruch abgelehnt worden ist oder der Berechtigte anderweitig beschwert ist, kann dieser innerhalb einer Frist von drei Monaten gegen die Freie und Hansestadt Hamburg, vertreten durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung, vor der Entschädigungskammer des Landgerichts Hamburg, Hamburg 11, Zippelhaus 5, Hths., schriftlich (möglichst zweifach) Klage erheben.
+If the applicant lives outside of Europe, the period of 3 months is replaced by a period of 6 months. The periods according to paragraphs 1 and 2 are emergency periods; they begin with the delivery of this decision. The statement of claim must contain:
 
-Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der Frist von 3 Monaten eine Frist von 6 Monaten. Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit der Zustellung dieses Bescheides. Die Klageschrift muß enthalten:<br>
-1) Die Bezeichnung der Parteien und des Gerichts,<br>
-2) 2) die bestimmte Angabe des Gegenstandes und des Grundes des erhobenen Anspruchs sowie einen bestimmten Antrag (§ 253 ZPO)
+1) The names of the parties and the court,
 
-Anschrift: 2 Hamburg 36, Drehbahn 54. Zahlungen an Finanzbehörde (Landeshauptkasse) für Amt für Wiedergutmachung Bankkonto: Landesbank Hamburg, Konto 103002 Postscheckkonto: Hamburg 5000 Kassenstunden: montags bis Freitags 8-13 Uhr
+2) the specific details of the subject and reason for the claim raised and a specific request (§ 253 ZPO)
+
+Address: 2 Hamburg 36, Drehbahn 54. Payments to the tax authority (State Treasury) for the Office for Compensation Bank account: Landesbank Hamburg, account 103002 Postal check account: Hamburg 5000 Cash desk hours: Monday to Friday 8 a.m. to 1 p.m.
 
 SB. X 77
-In
 
 # 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 left
