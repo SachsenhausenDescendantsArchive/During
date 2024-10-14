@@ -198,11 +198,17 @@ Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,-- nach Massga
 
 
 - 2 -
+
 Rechtsmittelbelehrung:
+
 Soweit durch diesen Bescheid der Anspruch abgelehnt worden ist oder der Berechtigte anderweitig beschwert ist, kann dieser innerhalb einer Frist von drei Monaten gegen die Freie und Hansestadt Hamburg, vertreten durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung, vor der Entschädigungskammer des Landgerichts Hamburg, Hamburg 11, Zippelhaus 5, Hths., schriftlich (möglichst zweifach) Klage erheben.
-Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der Frist von 3 Monaten eine Frist von 6 Monaten. Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit der Zustellung dieses Bescheides. Die Klageschrift muß enthalten: 1) Die Bezeichnung der Parteien und des Gerichts,
-2) die bestimmte Angabe des Gegenstandes und des Grundes des erhobenen Anspruchs sowie einen bestimmten Antrag (§ 253 ZPO)
+
+Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der Frist von 3 Monaten eine Frist von 6 Monaten. Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit der Zustellung dieses Bescheides. Die Klageschrift muß enthalten:<br>
+1) Die Bezeichnung der Parteien und des Gerichts,<br>
+2) 2) die bestimmte Angabe des Gegenstandes und des Grundes des erhobenen Anspruchs sowie einen bestimmten Antrag (§ 253 ZPO)
+
 Anschrift: 2 Hamburg 36, Drehbahn 54. Zahlungen an Finanzbehörde (Landeshauptkasse) für Amt für Wiedergutmachung Bankkonto: Landesbank Hamburg, Konto 103002 Postscheckkonto: Hamburg 5000 Kassenstunden: montags bis Freitags 8-13 Uhr
+
 SB. X 77
 In
 
