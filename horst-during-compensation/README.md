@@ -244,3 +244,33 @@ In
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 right
 
 ### 16 August 1966, Page 2
+
+Gründe :
+
+Der jüdische Erblasser hatte seinen letzten Wohnsitz in Hamburg und besuchte hier die Talmud-Tora-Schule. Durch seine Deportation am 4.12.1941 nach Riga wurde der Schul- besuch unterbrochen. Aus der Deportation ist der Erblasser nicht zurückgekehrt.
+
+Seine drei Geschwister, die im Rubrum genannten Erben, beantragen beim Amt eine Kapitalentschädigung gemäss § 116 BEG. Sie sind durch den Erbschein des Amtsgerichts Hamburg vom 1.7.1958 als Rechtsnachfolger ausgewiesen. Auf den Akteninhalt wird Bezug genommen.
+
+Der Antrag ist begründet, denn durch die Deportation hat der Erblasser eine Unterbrechung seiner vorberuflichen Ausbildung und damit einen Schaden gemäss § 115 BEG er- litten. Nach § 116 BEG beträgt die Kapitalentschädigung DM 10.000,--.
+
+Im Auftrage:
+
+(Fricke)
+
+Reg. Amtmann
+
+---
+
+Reasons:
+
+The Jewish testator's last place of residence was in Hamburg and he attended the Talmud Torah school there. His school attendance was interrupted by his deportation to Riga on December 4, 1941. The testator did not return from the deportation.
+
+His three siblings, the heirs named in the rubric, are applying to the office for capital compensation in accordance with Section 116 BEG. They are identified as legal successors by the certificate of inheritance from the Hamburg District Court dated July 1, 1958. Reference is made to the contents of the file.
+
+The application is justified because the deportation interrupted the testator's pre-professional training and thus caused him damage in accordance with Section 115 BEG. According to Section 116 BEG, the capital compensation amounts to DM 10,000.
+
+On behalf of:
+
+(Fricke)
+
+Governor
