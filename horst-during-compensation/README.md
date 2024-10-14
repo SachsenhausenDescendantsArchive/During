@@ -98,7 +98,7 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 right
 
-### Page 4 - 12 December 1965
+### 12 December 1965
 
 # 
 
@@ -120,11 +120,11 @@ Page 6
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 right
 
-#### 11. Januar 1965
+### 11 January 1965
 
 Sehr geehrter Dr rosenhaft 
 
-In Beantwortung ihres Schreibens vom 15 dezember 1965 
+In Beantwortung ihres Schreibens vom 15 dez. 1965 
 
 Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler der Talmud Tora realschule in Hamburg. Von da ist er mit der Familie nach Lettland in ein KZ geschickt und dort umgekommen. Er war ein sehr guter Schüler Punkt seine berufsziel war nur Doktor zu sein und wir glauben alle dass er es gemacht hätte hochachtungsvoll 
 
