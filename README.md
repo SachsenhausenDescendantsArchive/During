@@ -13,7 +13,7 @@ This is a set of sample visual essays demonstrating a few key features of a Visu
 
 #### Introduction & Reflection {href=introduction}
 
-![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/Barrack60.jpg)
+![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/main/Thumbnails/SachsenhausenGate.jpg)
 
 Read an introduction to this collection, along with reflections and analysis by descendant of the Düring Family, Nicole Wines. 
 
