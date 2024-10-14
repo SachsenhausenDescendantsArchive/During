@@ -177,6 +177,42 @@ PS Can we get money for the time he was in the concentration camp?
 
 ### 16 August 1966, Page 1
 
+d to 7
+Akte
+FREIE UND HANSESTADT HAMBURG
+ARBEITS- UND SOZIALBEHORDE
+AMT FUR WIEDERGUTMACHUNG
+Sprechzeit:
+Nur montags von 8-15 Uhr
+FERNSPRECHER: 34 10 16 BEHORDENNETZ:
+WG 4
+App. 1267 23 0507 30/5
+Aktz.:
+(Bei Beantwortung bitte angeben)
+Hamburg, den 16. August 1966 Fr/La.
+15
+In der Entschädigungssache der Erbengemeinschaft nach
+Horst Düring, geb. am 5.7.1930 in Hamburg, als am 8.5.1945 verstorben geltend, bestehend aus:
+1.) Herrn Egon Düring, geb. am 15.1.1920,
+wohnhaft: 1820 Harrison Ave., Bronx, N.Y. / USA,
+2.) Frau Eleonore Markusfeld geb. Düring, geb. am 23.12.1920, wohnhaft: 306 Huguenot St., New Rochelle, N.Y. / USA, 3.) Frau Johanna Whitehead geb. Düring, geb. am 11.1.1918, wohnhaft: 247 Drake Ave., New Rochelle, N.Y. / USA,
+zu 1.) bis 3.) vertreten durch
+Herrn Rechtsanwalt Dr. Fr. Rosenhaft, Hamburg 1, Spitalerstr. 11,
+ergeht durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung der Freien und Hansestadt Hamburg auf Grund des Bundesentschädigungsgesetzes (BEG) - BGBl. 1956 I S. 559-
+in der Fassung des 2. Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14. 9. 1965 - BGBl. 1965 I S. 1315 i. V. mit den Durchführungsverordnungen zum BEG folgender
+Bescheid:
+Die Erbengemeinschaft erhält für Schaden des Erblassers in der Ausbildung eine Kapitalentschädigung von DM 10.000,--
+(in Worten: Zehntausend Deutsche Mark).
+Davon erhält sie DM 5.000,-- sofort, den Restbetrag von DM 5.000,- -- nach Massgabe der noch zu erlassenden haushalts- rechtlichen Vorschriften, spätestens jedoch bis 31.12.1969.
+- 2 -
+Rechtsmittelbelehrung:
+Soweit durch diesen Bescheid der Anspruch abgelehnt worden ist oder der Berechtigte anderweitig beschwert ist, kann dieser innerhalb einer Frist von drei Monaten gegen die Freie und Hansestadt Hamburg, vertreten durch die Arbeits- und Sozialbehörde - Amt für Wiedergutmachung, vor der Entschädigungskammer des Landgerichts Hamburg, Hamburg 11, Zippelhaus 5, Hths., schriftlich (möglichst zweifach) Klage erheben.
+Wohnt der Antragsteller im außereuropäischen Ausland, so tritt an Stelle der Frist von 3 Monaten eine Frist von 6 Monaten. Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit der Zustellung dieses Bescheides. Die Klageschrift muß enthalten: 1) Die Bezeichnung der Parteien und des Gerichts,
+2) die bestimmte Angabe des Gegenstandes und des Grundes des erhobenen Anspruchs sowie einen bestimmten Antrag (§ 253 ZPO)
+Anschrift: 2 Hamburg 36, Drehbahn 54. Zahlungen an Finanzbehörde (Landeshauptkasse) für Amt für Wiedergutmachung Bankkonto: Landesbank Hamburg, Konto 103002 Postscheckkonto: Hamburg 5000 Kassenstunden: montags bis Freitags 8-13 Uhr
+SB. X 77
+In
+
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=14 right
