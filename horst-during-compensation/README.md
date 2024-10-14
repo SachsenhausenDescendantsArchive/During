@@ -201,7 +201,7 @@ Den 10 August 1966<br>
 Schr/Di
 
 <u>SL 5</u>
-<&nbsp;>mit der Bitte um weitere Veranlassung.
+&nbsp;&nbsp;&nbsp;mit der Bitte um weitere Veranlassung.
 
 
 <u>Antragsteller:</u>
