@@ -35,11 +35,11 @@ Standort (wird vom Staatsarchiv ausgefüllt)
 
 MEG 277 213
 
-Datum der Benutzung
+<b>Datum der Benutzung</b>
 
 03.04.2024
 
-Name, Vorname des Benutzenden
+<b>Name, Vorname des Benutzenden</b>
 
 Ingo Wille
 
@@ -54,15 +54,17 @@ Office for Restitution
 
 -
 
-Hamburg State Archives
+Hamburg
+
+State Archives
 
 Order form for archive material and library material
 
-Inventory number for library material: author, short title
+<b>Inventory number</b><br><i>for library material: author, short title</i>
 
 351-11
 
-Signature of the archive material unit for library material: book signature
+<b>Signature of the archive material unit</b><br><i>for library material: book signature</i>
 
 49293 (Düring Max)
 
@@ -70,11 +72,11 @@ Location (will be filled out by the State Archives)
 
 MEG 277 213
 
-Date of use
+<b>Date of use</b>
 
 03.04.2024
 
-Name, first name of the user
+<b>Name, first name of the user</b>
 
 Ingo Wille
 
