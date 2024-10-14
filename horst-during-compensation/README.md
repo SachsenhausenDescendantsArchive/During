@@ -21,7 +21,7 @@ Hamburg Staatsarchiv
 
 Bestellschein für Archivgut und Bibliotheksgut
 
-Bestandsnummer bei Bibliotheksgut: Verfasser, Kurztitel
+<b>Bestandsnummer</b><br><i>bei Bibliotheksgut: Verfasser, Kurztitel</i>
 
 351-11
 
