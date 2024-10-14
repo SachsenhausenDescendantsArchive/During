@@ -40,7 +40,7 @@ Page 4
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 left
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 left
 
 <div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
 
