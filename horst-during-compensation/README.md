@@ -200,7 +200,7 @@ Horst During
 Den 10 August 1966<br>
 Schr/Di
 
-<u>SL 5</u>
+<u>SL 5</u><br>
 &nbsp;&nbsp;&nbsp;mit der Bitte um weitere Veranlassung.
 
 
