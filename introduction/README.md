@@ -6,3 +6,4 @@
     
 # Introduction
 
+The documents and information shared in this collection were obtained in 2024 with the help of Dr. Astrid Ley and Ingo Wille. Transcription of all handwritten material was completed by Jakob Feisthauer.
