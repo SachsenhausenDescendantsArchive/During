@@ -17,13 +17,13 @@ This is a set of sample visual essays demonstrating a few key features of a Visu
 
 Read an introduction to this collection, along with reflections and analysis by descendant of the Düring Family, Nicole Wines. 
 
-#### Egon Düring Compensaion File {href=egon-during-compensation}
+#### Egon Düring Compensation File {href=egon-during-compensation}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
 This is a selection of handwritten letters from Egon Düring's Compensation File. 
 
-#### Horst Düring Compensaion File {href=horst-during-compensation}
+#### Horst Düring Compensation File {href=horst-during-compensation}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
