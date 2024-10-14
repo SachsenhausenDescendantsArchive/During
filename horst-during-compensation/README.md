@@ -6,7 +6,7 @@
     
 # Horst Düring Compensation File
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest left
 
 ### Page 1 - Case Folder & Request Form
 
@@ -84,38 +84,38 @@ Ingo Wille
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 left
 
 ### Page 2 - Cover Page
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=3 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=3 left
 
 ### Page 3 - List of Individuals Submitting Request - 3 Siblings
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=4 left
 
 ### 12 December 1965
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=5 left
 
 ### 27 January 1966
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=6 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=6 left
 
 
 ### 15 February 1966
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 left
 
 ### 11 January 1966
 
@@ -143,31 +143,31 @@ PS Can we get money for the time he was in the concentration camp?
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
 
 ### 3 May 1966
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=9 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=9 left
 
 ### 7 June 1966
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=10 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=10 left
 
 ### 17 July 1966
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=11 left
 
 ### 10 August 1966, Page 1
 
 # 
 
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 right
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 left
 
 ### 10 August 1966, Page 2 
 
