@@ -202,9 +202,9 @@ Horst During
 
 
 <u>Antragsteller:</u>
-> Erbengemeinschaft nach Horst Düring
-geb.am 5.7.1930 in Hamburg, verstorben gemäß § 180 EEG am 8.5. 1945 (Erbschein s.B1.19 in Egon DURING 1501 20-5-)
-bestehend aus den Geschwistern
+> Erbengemeinschaft nach Horst Düring<br>
+geb.am 5.7.1930 in Hamburg, verstorben gemäß § 180 EEG am 8.5. 1945 (Erbschein s.B1.19 in Egon DURING 1501 20-5-)<br>
+bestehend aus den Geschwistern:<br>
     1) Egon DURING, geb.am 15.1.1920, wohnhaft in 1820 Harrison Ave.
 Bronx, N.Y./USA (B1.90 in Egon DURING, 15 01 20 -5-),
     2) Eleonore MARKUSFELD geb.Düring, geb.am 23.12.1920, wohnhaft in 306 Huguenot St., New Rochelle, N.Y./USA (B1.
