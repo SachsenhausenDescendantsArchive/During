@@ -193,6 +193,33 @@ Hamburg, July 27, 1966 JEWISH COMMUNITY IN HAMBURG
 
 ### 10 August 1966, Page 1
 
+WG 4-0507 30 -5-<br>
+Erbengemeinschaft nach<br>
+Horst During
+
+Den 10 August 1966<br>
+Schr/Di
+
+<u>SL 5</u>
+> mit der Bitte um weitere Veranlassung.
+
+
+<u>Antragsteller:</u>
+Erbengemeinschaft nach Horst Düring
+geb.am 5.7.1930 in Hamburg, verstorben gemäß § 180 EEG am 8.5. 1945 (Erbschein s.B1.19 in Egon DURING 1501 20-5-)
+bestehend aus den Geschwistern
+1) Egon DURING, geb.am 15.1.1920, wohnhaft in 1820 Harrison Ave.
+Bronx, N.Y./USA (B1.90 in Egon DURING, 15 01 20 -5-),
+2) Eleonore MARKUSFELD geb.Düring, geb.am 23.12.1920, wohnhaft in 306 Huguenot St., New Rochelle, N.Y./USA (B1.
+3) Johanna Whitehead geb.Düring,
+156 Rs. in Eldonore MARKUSFELD 2312 20 -5-),
+geb.am 11.1.1918, wohnhaft in 247 Drake Ave., New Rochelle, N.Y./USA (B1.13 in EG nach Kurt DURING, 0102 37 -5-)
+zu je 1/3. Bevollmächtigter:Rechtsanwalt Dr. Friedrich ROSENHAFT (Vollmachten s.Bl.4,5+6).
+Mit Schreiben vom 15.12.1965 (B1.2) beantragt RA.Dr.ROSENHAFT für die obige Erben- gemeinschaft die Gewährung einer Entschädigung von DM 10.000,-- für von Horst DURING erlittenen Ausbildungsschaden. Mit B1.7 überreicht er einen kurzen Lebens- lauf (B1.8), aus dem hervorgeht, dass der Erblasser Schüler der Talmud-Tora-Schule in Hamburg war und später mit der Familie nach Lettland in ein KZ verbracht wurde, wo er dann umgekommen ist.
+Ich verweise
+1.) auf die Auskunft der Schulbehörde vom 1.7.1966 (B1.12), nach der Horst D. 1937 schulpflichtig wurde und vermutlich auch Ostern 1937 eingeschult worden ist. Wenn auch keine Aufzeich- nungen über Horst DURING vorhanden sind, so hat eine Anfrage
+<-2-
+
 # 
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=12 left
