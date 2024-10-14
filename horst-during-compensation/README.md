@@ -62,14 +62,6 @@ Page 6
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=7 left
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 7
-
-# 
-
-.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
-
 #### 11. Januar 1965
 
 Sehr geehrter Dr rosenhaft 
@@ -80,6 +72,11 @@ Unser Bruder horst war am 5 juli 1930 in Hamburg geboren. Horst war ein Schüler
 
 PS können wir auch geld kriegen für die Zeit wo er im KZ war?
 
+# 
+
+.ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=8 left
+
+Page 8 
 
 # 
 
