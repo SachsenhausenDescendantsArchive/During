@@ -84,9 +84,7 @@ Ingo Wille
 
 .ve-media https://sic2.datachunkdesigns.com/iiif/3/97/manifest seq=2 right
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
-
-Page 2
+Cover Page
 
 # 
 
