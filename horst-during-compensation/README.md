@@ -25,7 +25,7 @@ Bestandsnummer bei Bibliotheksgut: Verfasser, Kurztitel
 
 351-11
 
-Signature der Archivguteinheit bei Bibliotheksgut: Buchsignature
+Signature der Archivguteinheit<br>bei Bibliotheksgut: Buchsignature
 
 49293 (Düring Max)
 
