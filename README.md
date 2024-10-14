@@ -19,7 +19,7 @@ Read an introduction to this collection, along with reflections and analysis by 
 
 #### Egon Düring Compensation File {href=egon-during-compensation}
 
-![](https://raw.githubusercontent.com/SachsenhausenDescendantsArchive/media/thumbnails/egon_during.jpg)
+![](https://github.com/SachsenhausenDescendantsArchive/media/blob/main/Thumbnails/Host_During.jpg)
 
 This is a selection of handwritten letters from Egon Düring's Compensation File. 
 
