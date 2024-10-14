@@ -177,7 +177,6 @@ Hamburg, d. 27. Juli 1966   JÜDISCHE GEMEINDE IN HAMBURG
 Fricke
 
 ---
-with the request for further action.<br>
 JEWISH COMMUNITY IN HAMBURG<br>
 Hamburg 6, Schäferkampsallee 29 Tel.: 44 09 44/46
 
