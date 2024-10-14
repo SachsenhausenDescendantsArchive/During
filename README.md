@@ -27,4 +27,4 @@ This is a selection of handwritten letters from Egon Düring's Compensation File
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-Menlo Park, New Jersey, 13 July 1885
+Horst Düring's Compensation File with selected transcriptions and translation
