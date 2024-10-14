@@ -40,7 +40,7 @@ Datum der Benutzung
 Name, Vorname des Benutzenden
 Ingo Wille
 
-_  _  _
+_  _ 
 
 #### HAMBURG STATE ARCHIVES
 
