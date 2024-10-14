@@ -11,7 +11,7 @@
 #### Staatsarchiv Hamburg
 
 351-11
-Amt für Wiedergutmachung
+Amt für Wiedergutmachung 
 49293
 
 # 
